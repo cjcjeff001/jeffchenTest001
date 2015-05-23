@@ -15,7 +15,7 @@ namespace GuestBookMvc.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.123";
+            ViewBag.Message = "Your application description page.456";
 
             return View();
         }
